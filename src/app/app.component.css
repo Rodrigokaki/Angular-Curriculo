@@ -1,0 +1,24 @@
+.container{
+    width: 1000px;
+    margin: auto;
+    background-color: #f1f1f1;
+    padding: 50px;
+  }
+   
+  .apresentation{
+    display: flex;
+  }
+   
+  .foto{
+    height: 150px;
+    margin-right: 20px;
+  }
+   
+  hr{
+    background-color: #6579bc;
+    height: 1px;
+  }
+   
+  h4{
+    margin-bottom: 2px;
+  }
